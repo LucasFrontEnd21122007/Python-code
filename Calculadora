@@ -1,0 +1,7 @@
+def soma(a, b,c,d):
+    resultado = a + b + c + d
+    return resultado
+    return resultado
+    resultado = soma(a+b+c+d)
+    resultado = soma(5+5+5+5)
+    print(resultado) #output:20
